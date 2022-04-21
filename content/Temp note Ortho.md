@@ -1,3 +1,10 @@
+---
+title: "Ortho"
+tags:
+- example-tag
+enableToc: false # do not show a table of contents on this page
+---
+
 ![](https://i.imgur.com/lHJRlq0.png)
 
 - cervical traction แล้ว neurodeficit → หยุดทำ + MRI ดูมีอะไรกดทับไหม
