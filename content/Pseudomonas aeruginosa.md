@@ -1,0 +1,1 @@
+highly virulent bacteria avoiding phagocytosis

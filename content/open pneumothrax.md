@@ -1,0 +1,1 @@
+pneumothorax ที่มีรูเปิด air flow ได้เลย นอกจากทำ [[Chula Trauma MOOC#Three side occlusive dressing]] แล้วก็ต้อง surgery ปิดรูต่อด้วย

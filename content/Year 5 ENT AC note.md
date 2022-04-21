@@ -1,0 +1,134 @@
+- CA nasophryng associate ?
+- PTA symbols
+- Foreign body removal
+	- m/c site in nose, pharynx
+		- anterior nose, base of tongue + tonsil
+	- Ear living + big ใช้อะไร ?
+	- เข้า stomach ไปแล้ว เป็น magnetic ทำไร ?
+		- ในสไลด์บอกให้ observe
+	- TM perforate หลังเอา FB ออกทำไง ?
+- where is attic in ear ?
+	- roof of middle ear
+- OAE ของ otosclerosis ? เป็นข้อผิด
+	- 
+- Epitaxis
+	- ant + post pack แล้ว fail ทำไรต่อและที่ไหน
+		- ligation at ? เป็น first choice
+	- [[Kiesselbach plexus]] เส้นไหนใหญ่สุด ? มีเส้นอะไรบ้าง ? 
+- Hearing loss
+	- noice
+		- เริ่มเสียที่ไหน ?
+			- high f
+	- TTS รักษายังไง
+		- พัก 48 ชั่วโมง
+- Seroma in ear pinna รักษายังไง
+	- drain and pressure กดไว้ / aspirate + splint
+- Neck mass
+	- first visit ไม่ควรทำอะไร Ix ?
+		- Incisional
+	- cystic mass ผล FNA ได้ carcinoma ทำอะไรต่อ ?
+		- DL + tonsillectomy
+- Facial fracture ใน trauma จัดการ airway ยังไง ?
+- [[indirect laryngoscopy]] ตรงไหนคืออะไร
+- otoscope ส่องดู ตรงไหนคือ light reflex ?
+	- antero inferior
+- Salivary diseases
+	- m/c site of นิ่ว ?
+		- subman
+	- nerve supply ของ parotid gland ?
+		- otic(parasym), sup. cervical(sym)
+	- m/c agent in sialadenitis
+		- S. aureus
+- ==Tracheostomy==
+	- incision ตรงไหน ?
+		- 1.5 cm ต่ำกว่า cricoid cartilage
+	- ==ทำเสร็จแล้ว bleed ไอเป็นเลือด Dx ?==
+		- tracheo-innominate fistula
+	- subcutaneous emphysema ทำไง
+		- stitch off around wound ?
+- ==Middle ear==
+	- CSOM with choleasteatoma ทำไร ?
+		- IV atb + mastoidectomy
+	- AOM ไม่ severe ไม่มี otorrhea ให้อะไร ?
+		- ibuprofen observe
+	- CSOM without cholesteatoma นิยามคือ? ทำไร ?
+		- 6 week of discharge จาก perforate ทำปะแก้วหู (plasty)
+	- Middle ear atelectesis อาการ ? ตรวจเจอ ? รักษา ?
+		- long standing ETD
+		- retracted TM → Myringotomy with tube
+	- ถ้าเจอ mastoid process แดง เจ็บ หรือมี auricular protusion นึกถึง ?
+		- mastoiditis → wide myringotomy with IV ATb
+- พ่น ICS ระวัง ?
+	- glaucoma
+- ยา allergy กับ pregnancy
+	- ห้ามใช้
+		- budesonide
+	- safe
+		- loratadine, pseudoephridine
+- ==Facial paralysis==
+	- complete เลย 3 สัปดาห์ ทำไร ? 4 วัน ทำไร ?
+		- investigate → EMG vs ENOG ?
+	- Bell's palsy เจออาการอะไรน้อยสุด
+		- จมูกแห้ง
+	- Fracture 2 แบบ ต่างกันยังไง Indication surgery 3 ข้อ
+		- Longitudinal: ชั้นนอก-กลางโดนเยอะ bleed แต่ nerve delay + incomplete ถ้าโดน
+		- Transverse fracture โดน nerve เยอะแบบ complete + suddent onset 
+		- 1. Sudden 2. ENog > 90% 3. Disrupt facial canal
+- ==Allergic thinitis==
+	- early phase ตัวหลักมีไรบ้าง ?
+		- mast, histamine, PG , leukotriene
+	- =เริ่มที่ยาอะไร ไปดู guideline เลย=
+		- 
+- Hemangioma รักษายังไง
+	- propanolol
+- OSA การรักษาอะไรไม่ช่วย
+	- NSS irrigation
+- Massive nasal bleeding ?
+	- angiofibroma 
+- Neonate เขียวเป็นๆ หายๆ ดีขึ้นตอนร้องไห้ dx ?
+	- bilateral cloanal atresia
+- ==อะไรไม่เกี่ยวกับ masking ? ==
+	- presbycusis
+- Endolymph vs Perilymph
+	- endo อยู่ใน membranous เช่น scala media content = intracellular
+	- peri อยู่นอก เช่น scala vestibuli, scala tympani content = CSF
+- Larynx ชอบออก anatomy
+	- vocal nodule เจอที่ไหน ?
+		- ant. 1/3 ต่อกับ post 2/3 ไม่ใช่กลางเป๊ะๆ
+	- vocal polyp เกิดจาก ?
+		- voice abuse
+	- [[Laryngomalacia]]
+	- vocal cord paralysis สรุปทำไง
+		- panendoscope biopsy ? plasty ?
+- Osteomeatal complex เชื่อม structure ไรบ้าง เพื่ออะไร
+	- Ant. ethmoid air cells, Maxillary sinus, Frontal sinus, Middle meatus เพื่อ mucous drainage
+- Carhart notch เจอใน ?
+	- [[Osteosclerosis]]
+- cerumen impaction ไม่ยอมให้ตรวจ ทำไงดี
+	- glycerine ear drop แล้ว follow up
+- pseudoephridine ระวังใน ? 
+	- BPH
+- [[Pregnancy drug categories]]
+- AOE เกิดจาก ? key finding ในหูคือ ? เชื้อ ?
+	- trauma ปั่นหูบ่อย → inflame → ตีบแคบ ถ้า severe แทบไม่มี lumen
+	- S. aureus
+	- หยอด ATB + clean/dry
+- MOE เกิดในคนกลุ่มไหน ? เชื้ออะไร ? Investigate ยังไง Dx 1 F/U 1
+	- DM, ICH เกิดจาก P. aeruginosa ทั้งนั้น 
+	- ใช้ CT เพราะดู bone/nerve invasion และ Tc99/Galium scan f/u ทุกเดือน หลังให้ ATB IV 6 weeks + local debridement 
+- ==แยก parotid space infection กับ sialadenitis ยังไง==?
+- asymetrical SDS/WRS แย่อยู่ด้านเดียว ระวัง ?
+	- acoustic
+- pure tone reliability check ทำไง ?
+	- SRT กับ PTA withing 10 dB
+- Tuning fork max dB ?
+	- 40
+
+- ![[Pasted image 20211023195031.png]]
+- ![[Pasted image 20211024063435.png]]
+- ![[Pasted image 20211024063700.png]]
+- ![[Pasted image 20211024064141.png]]
+- ![[Pasted image 20211024064336.png]]
+- ![[Pasted image 20211024080727.png]]
+- ![[Pasted image 20211024075029.png]]
+- ![[Pasted image 20211024122433.png]]

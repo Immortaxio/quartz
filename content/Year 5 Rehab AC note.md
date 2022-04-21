@@ -1,0 +1,84 @@
+- Modality
+	- indications of everything
+		- POCT-M
+		- M-COAT
+		- CTWM
+- HNP ควรออกกำลังกายท่าแนวไหน
+	- extension เพราะ flexion induced pain
+- Stroke 
+	- rehab ช่วงไหนดี
+		- 1-3 เดือน
+	- ลำดับการ recover
+		- proximal → distal, flaccid → spastic → synergistic
+- พวกโรค NMJ Dx ไง
+	- repetitive stimulation test
+- Immobility
+	- GU ไต เกิดอะไร มาจากอะไร
+		- stone, infection จาก empytying fail, ADH หาย, Ca  PO4 ใน urine เยอะ
+	- CVS changes
+		- HR↑ EDV↓ | ลดหมดตอน exercise ยกเว้น max HR
+- Cardio
+	- ก่อน discharge ต้องได้ MED เท่าไหร่
+		- 4-5
+	- ![[Pasted image 20211028223916.png]]
+	- นั่งจำ Met กับ actvity ไป 2 นั่ง 3 ยืน-เดิน 4 บันได ลง-ขึ้น 5 กลับบ้าน
+- Pulmonary
+	- secretion step ยังไง
+		- cough, huff, อุปกรณ์ เช่น acapella
+- Spinal cord injury
+	- AIS A expect อะไร
+	- AIS ประเมินเมื่อไหร่ ถ้ามี spinal shock
+		- ทันทีที่ off
+- Geriatric
+	- Fall risk factors เด่นสุด
+		- weakness > Previous fall >>> others (gait,balance,vision)
+	- Fall prevention exercise ทำไร
+		- seat to stand, single limb stance
+	- Frailty 5 ข้อ ถ้ามี3 อันหลังต้อง screen อะไร
+		- นนลด อ่อนล้า ==อ่อนแรง เดินช้า ADL พัง== → screen sarcopenia
+- Trigger finger อาการยังไง pulley ไหน
+	- flexion ค้าง ที่ A1
+- Othosis
+	- most popular foot
+		- SACH foot
+	- wedge compression fracture ใช้อะไร
+		- jewett 
+- Orthopedic
+	- Hip ห้ามทำท่าไหน ใน postero กับ anterior approach
+		flex 80, adduct, int rotate, low sit | extension, ext rotate, prone, bridge
+	- ผ่าเข่าต้องกี่องศา ใช้บันได
+		- 115
+- increased rate of product มากสุดคือ ?
+	- smoking
+- health related physical fitness 5 ข้อ
+	- CV endurance, MS endurance, MS strength, flexibility, body composition
+- EMG
+	- อะไรไม่ใช่ abnormal findings
+		- electrical silence, insertional activity, end plate noise
+	- axonal involvement เป็นไง
+- offset knee orthosis ใช้ใน ?
+	- quadriceps weakness
+- mild nerve injury(neurapraxia) จะเกิดอะไร
+	- conduction block
+- Heterotropic ossificans
+	- earliest sign ?
+		- loss ROM
+- CRPS
+	- early stage symptoms
+		- pain, swelling, hyperhydrosis
+		- ไม่มี joint stiffness
+- MSK
+	- tennis elbow พังที่ ? ตรวจอะไร
+		- extensor tendon เช่นพวก carpi radialis 
+		- ตรวจ Cozen test หลักการคือ resisted wrist extension เพิ่มความตึงด้วย elbow *flexion*
+- Amputee
+	- Post-op pain มีกี่แบบ ต่างกันยังไง
+		- Phantom เกิด delay few days ที่ตัดไปแล้ว ใช้ ==TENS== ดี แยกจาก phantom sensation ที่ไม่ปวด แค่รู้สึก
+		- Stump เกิดทันที เหมือนปวดแผลผ่าตัด → NSAID,Para, TCA
+	- AKA which muscle intact?
+		- gluteus(abductors)
+	- CRPS ???
+		- dystrophic phase อาการ ?
+			- pain pale cold
+		- acute phase อาการ ?
+			- hyperemia, hyperthermia, burning sensation

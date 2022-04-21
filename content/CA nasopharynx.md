@@ -1,0 +1,3 @@
+- หูอื้อ 1 ข้าง เลือดไหลลงคอ ก้อน lymph
+- good prognosis with Radiation + Chemotherapy
+- 
